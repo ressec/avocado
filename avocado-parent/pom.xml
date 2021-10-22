@@ -76,7 +76,7 @@
         <version.javafaker>1.0.1</version.javafaker>
         <version.apache.commons.lang.3>3.9</version.apache.commons.lang.3>
         <version.gson-fire>1.8.4</version.gson-fire>
-        <version.apache.commons.io>2.6</version.apache.commons.io>
+        <version.apache.commons.io>2.7</version.apache.commons.io>
         <version.jrand>0.2.6-alpha</version.jrand>
         <version.imgscalr>4.2</version.imgscalr>
         <version.imageio>3.6.4</version.imageio>
