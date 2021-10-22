@@ -7,7 +7,7 @@
     <groupId>org.ressec</groupId>
     <artifactId>avocado-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 
     <modules>
         <module>../avocado-core</module>
@@ -95,7 +95,7 @@
         <repository>
             <id>github</id> <!-- This repository id should match a server entry in the servers section of the settings.xml file. -->
             <name>GitHub</name>
-            <url>https://maven.pkg.github.com/ressec/avocaod</url>
+            <url>https://maven.pkg.github.com/ressec/avocado</url>
         </repository>
 
     </distributionManagement>
