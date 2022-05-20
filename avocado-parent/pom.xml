@@ -69,7 +69,7 @@
 
         <!-- Dependencies version properties -->
         <version.lombok>1.18.18</version.lombok>
-        <version.google.gson>2.8.6</version.google.gson>
+        <version.google.gson>2.8.9</version.google.gson>
         <version.google.guava>30.0-jre</version.google.guava>
         <version.apache.log4j>[2.13.2,)</version.apache.log4j>
         <version.junit.jupiter>5.8.1</version.junit.jupiter>
